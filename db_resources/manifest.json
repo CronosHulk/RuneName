@@ -1,0 +1,225 @@
+{
+  "schema_version": 1,
+  "description_language": "ru",
+  "rune_count": 24,
+  "source_pdf_sha256": "38e689ecb57f9d1c66ac09d517853d29938f062e096a08a132bd0c14b0501647",
+  "letter_mapping_included": false,
+  "runes": [
+    {
+      "id": "fehu",
+      "name_ru": "Феху",
+      "directory": "runes/fehu",
+      "metadata": "runes/fehu/rune.json",
+      "svg": "runes/fehu/rune.svg",
+      "description": "runes/fehu/description.md",
+      "origin": "source_pdf"
+    },
+    {
+      "id": "uruz",
+      "name_ru": "Уруз",
+      "directory": "runes/uruz",
+      "metadata": "runes/uruz/rune.json",
+      "svg": "runes/uruz/rune.svg",
+      "description": "runes/uruz/description.md",
+      "origin": "source_pdf"
+    },
+    {
+      "id": "thurisaz",
+      "name_ru": "Турисаз",
+      "directory": "runes/thurisaz",
+      "metadata": "runes/thurisaz/rune.json",
+      "svg": "runes/thurisaz/rune.svg",
+      "description": "runes/thurisaz/description.md",
+      "origin": "source_pdf"
+    },
+    {
+      "id": "ansuz",
+      "name_ru": "Ансуз",
+      "directory": "runes/ansuz",
+      "metadata": "runes/ansuz/rune.json",
+      "svg": "runes/ansuz/rune.svg",
+      "description": "runes/ansuz/description.md",
+      "origin": "source_pdf"
+    },
+    {
+      "id": "raidho",
+      "name_ru": "Райдо",
+      "directory": "runes/raidho",
+      "metadata": "runes/raidho/rune.json",
+      "svg": "runes/raidho/rune.svg",
+      "description": "runes/raidho/description.md",
+      "origin": "source_pdf"
+    },
+    {
+      "id": "kenaz",
+      "name_ru": "Кено",
+      "directory": "runes/kenaz",
+      "metadata": "runes/kenaz/rune.json",
+      "svg": "runes/kenaz/rune.svg",
+      "description": "runes/kenaz/description.md",
+      "origin": "source_pdf"
+    },
+    {
+      "id": "gebo",
+      "name_ru": "Гебо",
+      "directory": "runes/gebo",
+      "metadata": "runes/gebo/rune.json",
+      "svg": "runes/gebo/rune.svg",
+      "description": "runes/gebo/description.md",
+      "origin": "source_pdf"
+    },
+    {
+      "id": "wunjo",
+      "name_ru": "Вуньо",
+      "directory": "runes/wunjo",
+      "metadata": "runes/wunjo/rune.json",
+      "svg": "runes/wunjo/rune.svg",
+      "description": "runes/wunjo/description.md",
+      "origin": "source_pdf"
+    },
+    {
+      "id": "hagalaz",
+      "name_ru": "Хагалаз",
+      "directory": "runes/hagalaz",
+      "metadata": "runes/hagalaz/rune.json",
+      "svg": "runes/hagalaz/rune.svg",
+      "description": "runes/hagalaz/description.md",
+      "origin": "source_pdf"
+    },
+    {
+      "id": "nauthiz",
+      "name_ru": "Наутиз",
+      "directory": "runes/nauthiz",
+      "metadata": "runes/nauthiz/rune.json",
+      "svg": "runes/nauthiz/rune.svg",
+      "description": "runes/nauthiz/description.md",
+      "origin": "source_pdf"
+    },
+    {
+      "id": "isa",
+      "name_ru": "Иса",
+      "directory": "runes/isa",
+      "metadata": "runes/isa/rune.json",
+      "svg": "runes/isa/rune.svg",
+      "description": "runes/isa/description.md",
+      "origin": "source_pdf"
+    },
+    {
+      "id": "jera",
+      "name_ru": "Йера",
+      "directory": "runes/jera",
+      "metadata": "runes/jera/rune.json",
+      "svg": "runes/jera/rune.svg",
+      "description": "runes/jera/description.md",
+      "origin": "source_pdf"
+    },
+    {
+      "id": "eihwaz",
+      "name_ru": "Эйваз",
+      "directory": "runes/eihwaz",
+      "metadata": "runes/eihwaz/rune.json",
+      "svg": "runes/eihwaz/rune.svg",
+      "description": "runes/eihwaz/description.md",
+      "origin": "editorial_adaptation"
+    },
+    {
+      "id": "perthro",
+      "name_ru": "Перт",
+      "directory": "runes/perthro",
+      "metadata": "runes/perthro/rune.json",
+      "svg": "runes/perthro/rune.svg",
+      "description": "runes/perthro/description.md",
+      "origin": "source_pdf"
+    },
+    {
+      "id": "algiz",
+      "name_ru": "Альгиз",
+      "directory": "runes/algiz",
+      "metadata": "runes/algiz/rune.json",
+      "svg": "runes/algiz/rune.svg",
+      "description": "runes/algiz/description.md",
+      "origin": "source_pdf"
+    },
+    {
+      "id": "sowilo",
+      "name_ru": "Соул",
+      "directory": "runes/sowilo",
+      "metadata": "runes/sowilo/rune.json",
+      "svg": "runes/sowilo/rune.svg",
+      "description": "runes/sowilo/description.md",
+      "origin": "source_pdf"
+    },
+    {
+      "id": "tiwaz",
+      "name_ru": "Тейваз",
+      "directory": "runes/tiwaz",
+      "metadata": "runes/tiwaz/rune.json",
+      "svg": "runes/tiwaz/rune.svg",
+      "description": "runes/tiwaz/description.md",
+      "origin": "source_pdf"
+    },
+    {
+      "id": "berkana",
+      "name_ru": "Беркана",
+      "directory": "runes/berkana",
+      "metadata": "runes/berkana/rune.json",
+      "svg": "runes/berkana/rune.svg",
+      "description": "runes/berkana/description.md",
+      "origin": "source_pdf"
+    },
+    {
+      "id": "ehwaz",
+      "name_ru": "Эваз",
+      "directory": "runes/ehwaz",
+      "metadata": "runes/ehwaz/rune.json",
+      "svg": "runes/ehwaz/rune.svg",
+      "description": "runes/ehwaz/description.md",
+      "origin": "source_pdf"
+    },
+    {
+      "id": "mannaz",
+      "name_ru": "Манназ",
+      "directory": "runes/mannaz",
+      "metadata": "runes/mannaz/rune.json",
+      "svg": "runes/mannaz/rune.svg",
+      "description": "runes/mannaz/description.md",
+      "origin": "source_pdf"
+    },
+    {
+      "id": "laguz",
+      "name_ru": "Лагуз",
+      "directory": "runes/laguz",
+      "metadata": "runes/laguz/rune.json",
+      "svg": "runes/laguz/rune.svg",
+      "description": "runes/laguz/description.md",
+      "origin": "source_pdf"
+    },
+    {
+      "id": "ingwaz",
+      "name_ru": "Ингуз",
+      "directory": "runes/ingwaz",
+      "metadata": "runes/ingwaz/rune.json",
+      "svg": "runes/ingwaz/rune.svg",
+      "description": "runes/ingwaz/description.md",
+      "origin": "source_pdf"
+    },
+    {
+      "id": "dagaz",
+      "name_ru": "Дагаз",
+      "directory": "runes/dagaz",
+      "metadata": "runes/dagaz/rune.json",
+      "svg": "runes/dagaz/rune.svg",
+      "description": "runes/dagaz/description.md",
+      "origin": "source_pdf"
+    },
+    {
+      "id": "othala",
+      "name_ru": "Отал",
+      "directory": "runes/othala",
+      "metadata": "runes/othala/rune.json",
+      "svg": "runes/othala/rune.svg",
+      "description": "runes/othala/description.md",
+      "origin": "source_pdf"
+    }
+  ]
+}

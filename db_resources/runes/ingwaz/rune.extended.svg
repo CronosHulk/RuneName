@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 120" role="img" aria-labelledby="ingwaz-extended-title">
+  <title id="ingwaz-extended-title">Ингуз</title>
+  <g id="ingwaz-extended" fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <line id="ingwaz-extended-s0-0" x1="25" y1="15" x2="75" y2="75"/>
+    <line id="ingwaz-extended-s0-1" x1="75" y1="75" x2="25" y2="105"/>
+    <line id="ingwaz-extended-s1-0" x1="75" y1="15" x2="25" y2="75"/>
+    <line id="ingwaz-extended-s1-1" x1="25" y1="75" x2="75" y2="105"/>
+  </g>
+</svg>

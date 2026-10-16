@@ -1,0 +1,58 @@
+# Private source material
+/starter info/
+/what we want/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+!.env.template
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+service-account*.json
+*.tfstate
+*.tfstate.*
+*.tfvars
+!*.tfvars.example
+.aws/
+.codex/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+*.egg-info/
+
+# Frontend
+node_modules/
+dist/
+build/
+coverage/
+
+# Runtime data and generated user content
+*.log
+*.db
+*.sqlite
+*.sqlite3
+/uploads/
+/artifacts/
+/backups/
+/graphify-out/
+
+# Local tooling and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.tmp
+*.bak
