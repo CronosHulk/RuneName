@@ -24,6 +24,7 @@ service-account*.json
 __pycache__/
 *.py[cod]
 .venv/
+.tools/
 venv/
 .pytest_cache/
 .mypy_cache/
